@@ -1,3 +1,3 @@
-document.getElementById('start').addEventListener('click', () => {
-  window.location = './game.html';
+document.getElementById("start").addEventListener('click', () => {
+    window.location = './game/game.html';
 });
